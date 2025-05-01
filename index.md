@@ -3,3 +3,8 @@
 
 now adding image
 ![Placeholder only](https://placehold.co/600x400)
+
+now adding codeblock
+``` javascript
+const myVar = "Hello, world!";
+```
