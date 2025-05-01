@@ -8,3 +8,8 @@ now adding codeblock
 ``` javascript
 const myVar = "Hello, world!";
 ```
+
+now adding list
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
